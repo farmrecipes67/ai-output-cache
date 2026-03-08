@@ -1,0 +1,16 @@
+{
+  "name": "ai-output-cache",
+  "version": "1.0.0",
+  "description": "Semantic caching for AI responses using embedding similarity to reduce API costs",
+  "main": "src/index.js",
+  "keywords": [
+    "ai",
+    "cache",
+    "semantic",
+    "embedding",
+    "cosine-similarity",
+    "llm",
+    "cost-optimization"
+  ],
+  "license": "MIT"
+}
